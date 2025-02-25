@@ -1,0 +1,21 @@
+@RELATION TempoPartidaTenis  
+@ATTRIBUTE Tempo {Sol,Nublado,Chuva}
+@ATTRIBUTE Temperatur {Quente,Frio,Morno}
+@ATTRIBUTE Umidade {Alta,Normal}
+@ATTRIBUTE Vento {Fraco,Forte}
+@ATTRIBUTE Partida {S,N} 
+@DATA 
+Sol,Quente,Alta,Fraco,N
+Sol,Quente,Alta,Forte,N
+Nublado,Quente,Alta,Fraco,S
+Chuva,Morno,Alta,Fraco,S
+Chuva,Frio,Normal,Fraco,S
+Chuva,Frio,Normal,Forte,N
+Nublado,Frio,Normal,Forte,S
+Sol,Morno,Alta,Fraco,N
+Sol,Frio,Normal,Fraco,S
+Chuva,Morno,Normal,Fraco,S
+Sol,Morno,Normal,Forte,S
+Nublado,Morno,Alta,Forte,S
+Nublado,Quente,Normal,Fraco,S
+Chuva,Morno,Alta,Forte,N
