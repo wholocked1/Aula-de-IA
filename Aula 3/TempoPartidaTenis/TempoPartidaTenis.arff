@@ -1,21 +1,21 @@
-@RELATION TempoPartidaTenis  
+@RELATIONao TempoPartidaTenis  
 @ATTRIBUTE Tempo integer
-@ATTRIBUTE Temperatura integer
+@ATTRIBUTE Temperatur integer
 @ATTRIBUTE Umidade integer
 @ATTRIBUTE Vento integer
 @ATTRIBUTE Partida {Sim,Nao} 
 @DATA 
-1,0,0,1,Nao
-1,0,0,0,Nao
-1,0,0,1,Sim
-2,2,0,1,Sim
-2,1,1,1,Sim
-2,1,1,0,Nao
-1,1,1,0,Sim
-0,2,0,1,Nao
-0,1,1,1,Sim
-2,2,1,1,Sim
-0,2,1,0,Sim
-1,2,0,0,Sim
-1,0,1,1,Sim
-2,2,0,0,Nao
+0,0,0,0,Nao
+0,0,0,1,Nao
+1,0,0,0,Sim
+2,2,0,0,Sim
+2,1,1,0,Sim
+2,1,1,1,Nao
+1,1,1,1,Sim
+0,2,0,0,Nao
+0,1,1,0,Sim
+2,2,1,0,Sim
+0,2,1,1,Sim
+1,2,0,1,Sim
+1,0,1,0,Sim
+2,2,0,1,Nao
