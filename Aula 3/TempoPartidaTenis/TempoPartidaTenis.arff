@@ -1,6 +1,6 @@
 @RELATIONao TempoPartidaTenis  
 @ATTRIBUTE Tempo integer
-@ATTRIBUTE Temperatur integer
+@ATTRIBUTE Temperatura integer
 @ATTRIBUTE Umidade integer
 @ATTRIBUTE Vento integer
 @ATTRIBUTE Partida {Sim,Nao} 
