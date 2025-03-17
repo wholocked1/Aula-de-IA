@@ -1,3 +1,15 @@
+#%pip install scikit-fuzzy
+import numpy as np
+import skfuzzy as fuzz
+from skfuzzy import control as ctrl
+from typing import get_origin
+#Variaveis de Entrada (Antecedent)
+comer = ctrl.Antecedent(np.arange(0, 16, 1), 'comer')
+tempoAtividade = ctrl.Antecedent(np.arange(0, 11, 1), 'tempo de atividade fisica')
+
+#Variaveis de saída (Consequent)
+peso = ctrl.Consequent(np.arange(0, 16, 1), 'peso')
+
 #Triangular
 comer['pouco'] = fuzz.trimf(comer.universe, [-1,0,2])
 comer['razoavel'] = fuzz.trimf(comer.universe, [1,4,6])
