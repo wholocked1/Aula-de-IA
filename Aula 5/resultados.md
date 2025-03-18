@@ -1,5 +1,10 @@
 1 - 0.0004126099225649753
-![image](https://github.com/user-attachments/assets/a0568148-aa51-4173-89ce-50c2052a2877)
 
 2 - 0.0004027301276348133
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/92ac33eb-6a9e-4a9c-a4c8-fedc99822ce5)
+
+3 - 0.0004053516196643412
+
+4 - 0.00040505766486617585
+
+5- 0.00040273023353408504
