@@ -1,64 +1,16 @@
-Carregando Arquivo de teste
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.00021688428449747376
+Teste4_1.py:<br>
+teste1 = 0.00021688428449747376<br>
+teste2 = 0.0002236016067513557<br>
+teste3 = 0.0002781029915986972<br>
+teste4 = 0.000292531339526987<br>
+teste5 = 0.0003660657066794972<br>
+teste6 = 0.0002147301184819295<br>
+teste7 = 0.00023980298130652983<br>
+teste8 = 0.00021748091809672452<br>
+**teste9 = 0.00021092324049937845 (melhor)**<br>
+teste10 = 0.00024344651289501116
 
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.0002236016067513557
-
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.0002781029915986972
-
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.000292531339526987
-
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.0003660657066794972
-
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.0002147301184819295
-
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.00023980298130652983
-
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.00021748091809672452
-
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.00021092324049937845
+Media =  0.00025035697003335846<br>
+Desvio padrao =  2.1837568495744864e-09<br>
+Gráfico da melhor iteração(teste9):
 ![image](https://github.com/user-attachments/assets/58de8158-424e-49d1-b679-ac317bc80da0)
-
-
-Treinando RNA
-/usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (2000) reached and the optimization hasn't converged yet.
-  warnings.warn(
-Preditor
-0.00024344651289501116
-
-0.0025035697003335847
