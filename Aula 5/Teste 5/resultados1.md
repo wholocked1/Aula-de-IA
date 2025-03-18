@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/bc3fd00a-333a-4e98-8393-c0d21d333c81)
 
 Carregando Arquivo de teste
 /usr/local/lib/python3.11/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (5000) reached and the optimization hasn't converged yet.
