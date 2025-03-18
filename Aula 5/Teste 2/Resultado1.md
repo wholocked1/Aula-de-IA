@@ -1,0 +1,17 @@
+Teste2+1.py:<br>
+teste1 = 0.00041421406639147586<br>
+teste2 = 0.00041305439251979005<br>
+teste3 = 0.0004137290132298597<br>
+teste4 = 0.00042181604692582584<br>
+teste5 = 0.0004122888887350015<br>
+**teste6 = 0.00041187184484459057 (melhor)**<br>
+teste7 = 0.0004133806542936002<br>
+teste8 = 0.00041237019784945005<br>
+teste9 = 0.00041488482581178806<br>
+teste10 = 0.0004124112469058602<br>
+
+Media =  0.0004140021177507242 <br>
+Desvio padrao =  7.590781984622873e-12 <br>
+
+Gráfico da melhor iteração(teste6):
+![image](https://github.com/user-attachments/assets/dd63f43c-d24b-4f06-a527-f570db0f71fe)
