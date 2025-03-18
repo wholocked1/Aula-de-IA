@@ -16,9 +16,9 @@ y = np.ravel(scale.transform(arquivo[1]))
 soma = 0
 melhor = 1
 melhorTeste = 0
-iteracoes = 2000
+iteracoes = 5000
 for i in range(10):
-  regr = MLPRegressor(hidden_layer_sizes=(50,30,10,7,5),
+  regr = MLPRegressor(hidden_layer_sizes=(100,60,50,25,7,5),
                       max_iter=iteracoes,
                       activation='tanh', #{'identity', 'logistic', 'tanh', 'relu'},
                       solver='adam', #{‘lbfgs’, ‘sgd’, ‘adam’}
